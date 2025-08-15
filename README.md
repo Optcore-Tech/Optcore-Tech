@@ -1,7 +1,7 @@
 # OptCore Tech
 
 <div align="center">
-  <img src="https://optcore.tech/wp-content/uploads/2024/01/optcore-logo.png" alt="OptCore Logo" width="200"/>
+  <img src="https://optcore.tech/logo.png" alt="OptCore Logo" width="200"/>
   
   [![Website](https://img.shields.io/badge/Website-optcore.tech-blue?style=for-the-badge&logo=globe)](https://optcore.tech/)
   [![Email](https://img.shields.io/badge/Email-info@optcore.tech-red?style=for-the-badge&logo=gmail)](mailto:info@optcore.tech)
